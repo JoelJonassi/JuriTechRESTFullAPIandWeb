@@ -1,0 +1,53 @@
+Artigo:
+Inserir Artigo (por utilizador)
+Eliminar Artigo (por utilizador)
+Alterar Artigo (por utilizador)
+Consultar Artigos (por utilizador)
+Consultar artigos por código processual (por utilizador)
+
+Código:
+Consultar Códigos de Processo (genérico)
+
+Estado:
+Consultar Estados de Processo (genérico)
+
+FaseProcessual:
+Inserir fase processual (por utilizador)
+Alterar fase processual (por utilizador)
+Consultar fase processual por NrProcesso (por utilizador)
+Consultar fase processual por IdEstado (por utilizador)
+Consultar fases processuais ativas (por utilizador)
+Consultar fases processuais inativas (por utilizador)
+
+PrazoCodigo:
+Consultar Prazos dos Códigos (genérico)
+
+Prazo:
+Criar / Adicionar Prazo (por utilizador)
+Apagar Prazo (por utilizador)
+Consultar prazos por número de processo (por utilizador)
+Consultar Prazos (por utilizador)
+
+Processo:
+Criar Processo - PostProcesso (por utilizador)
+Alterar Processo - PutProcesso (por utilizador)
+Consultar Processos do Utilizador (por utilizador)
+
+Tema:
+Consultar temas existentes (por utilizador)
+Editar tema existente (por utilizador)
+Inserir temas (por utilizador)
+
+TipoPrazo:
+Consultar Tipos de Prazo existentes
+
+TipoProcesso
+Criar tipo de processo (por utilizador)
+Editar tipo de processo (por utilizador)
+
+Utilizador:
+Sign up
+Login
+Editar os dados de utilizador
+
+
